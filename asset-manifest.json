@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/priscamogane/static/css/main.1436a306.css",
+    "main.js": "/priscamogane/static/js/main.e6cee09a.js",
+    "static/media/cv.pdf": "/priscamogane/static/media/cv.eb4bf7675a76da4e1e11.pdf",
+    "index.html": "/priscamogane/index.html",
+    "main.1436a306.css.map": "/priscamogane/static/css/main.1436a306.css.map",
+    "main.e6cee09a.js.map": "/priscamogane/static/js/main.e6cee09a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1436a306.css",
+    "static/js/main.e6cee09a.js"
+  ]
+}
