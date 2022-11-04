@@ -2,7 +2,6 @@ import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import HeaderSocials from './HeaderSocials'
-import ME from '../../assets/me.jpg'
 import {FaAward} from 'react-icons/fa'
 
 const header = () => {

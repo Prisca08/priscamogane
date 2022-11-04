@@ -1,11 +1,6 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/me.jpg'
-{/*import IMG2 from '../../assets/me.jpg'
-import IMG3 from '../../assets/me.jpg'
-import IMG4 from '../../assets/me.jpg'
-import IMG5 from '../../assets/me.jpg'
-import IMG6 from '../../assets/me.jpg'*/}
 
 const portfolio = () => {
   return (
