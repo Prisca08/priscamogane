@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/priscamogane/static/css/main.806ed55c.css",
-    "main.js": "/priscamogane/static/js/main.ec85b23b.js",
+    "main.css": "/priscamogane/static/css/main.4e55faab.css",
+    "main.js": "/priscamogane/static/js/main.aa78320d.js",
     "static/media/cv.pdf": "/priscamogane/static/media/cv.c51d9a05699b7eddd09b.pdf",
     "index.html": "/priscamogane/index.html",
-    "main.806ed55c.css.map": "/priscamogane/static/css/main.806ed55c.css.map",
-    "main.ec85b23b.js.map": "/priscamogane/static/js/main.ec85b23b.js.map"
+    "main.4e55faab.css.map": "/priscamogane/static/css/main.4e55faab.css.map",
+    "main.aa78320d.js.map": "/priscamogane/static/js/main.aa78320d.js.map"
   },
   "entrypoints": [
-    "static/css/main.806ed55c.css",
-    "static/js/main.ec85b23b.js"
+    "static/css/main.4e55faab.css",
+    "static/js/main.aa78320d.js"
   ]
 }
